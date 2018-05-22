@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SentenceWordRanking": {
+      "commandName": "Project",
+      "commandLineArgs": "/freq:c:\\temp\\en_full.txt /input:c:\\temp\\sentences.txt /output:c:\\temp\\sentenceRanking.txt"
+    }
+  }
+}
