@@ -6,3 +6,6 @@ The most used word started with 1 and increases with lesser used words. For each
 
 This is a .NET Core 2.0 project. If you aren't familiar with .NET Core, Here's help at hand
 Get started with .NET in 10 minutes (https://www.microsoft.com/net/learn/get-started/windows)
+
+#### Usage
+SentenceWordRank /freq:frequencyWords.txt /input:sentenceData.txt /output:sentenceRanking.txt
